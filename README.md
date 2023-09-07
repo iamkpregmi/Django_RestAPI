@@ -1,6 +1,6 @@
 # Django RestAPI
 
-This is project i've implemnted RestAPI(Representational State Transfer Application programming interface).
+This is project i've implemnted RestAPI(Representational State Transfer Application Programming Interface).
 
 
 
